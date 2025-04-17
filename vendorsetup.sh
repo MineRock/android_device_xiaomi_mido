@@ -1,0 +1,3 @@
+add_lunch_combo lineage_mido-eng
+add_lunch_combo lineage_mido-userdebug
+add_lunch_combo lineage_mido-user
